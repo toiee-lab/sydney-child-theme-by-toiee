@@ -1,0 +1,64 @@
+/*
+Theme Name: Sydney Child by toiee
+Theme URI: http://athemes.com/theme/sydney
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+*/
+
+.content-area-narrow {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+    margin-top: 1.5em;
+}
+
+h2 {
+    margin-top: 1.5em;    
+}
+
+h3 {
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+}
+
+div.entry-content　p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    line-height: 1.7em;
+}
+
+div.entry-content ul {
+    line-height: 2em;
+}
+
+ul.toc_list {
+    line-height:1em;
+}
+
+.wp-caption .wp-caption-text {
+margin: 1.5em 0;
+}
+
+
+
+.page-wrap {
+	padding-top: 10px;
+}
+
+
+
+.entry-content img {
+	box-shadow:0px 0px 6px 2px #e8e8e8;
+	-moz-box-shadow:0px 0px 6px 2px #e8e8e8;
+	-webkit-box-shadow:0px 0px 6px 2px #e8e8e8;
+}
+
+
