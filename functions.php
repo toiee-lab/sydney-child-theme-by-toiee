@@ -48,3 +48,14 @@ register_sidebar(array(
      'after_title' 		=> '</h3>'
 ));
 
+
+/* FOR UPDATE */
+require 'plugin-update-checker/plugin-update-checker.php';
+$MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+	'https://qhm2wp.toiee.jp/wp-content/uploads/toiee-lab-org-plugin-theme/sydney-child-theme-by-toiee-master-metadata.json',
+	__FILE__,
+	'sydney-child-theme-by-toiee-master'
+);
+
+
+
